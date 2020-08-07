@@ -1,2 +1,2 @@
-            <h1 align="center" >Pig Game</h1>
+            <h1>Pig Game</h1>
             <img src="ui.png" width="100%" >
